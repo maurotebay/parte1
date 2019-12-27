@@ -1,0 +1,11 @@
+body {
+    background-color: #999;
+}
+
+div {
+    background-color: #0f0;
+    border: 3px solid #000;
+    width: 50%;
+    height: 50%;
+    margin: 10% auto;
+}
