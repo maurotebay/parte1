@@ -1,0 +1,21 @@
+#rojo {
+    width: 50%;
+    height: 50%;
+    margin: 5% auto;
+    padding: 5%;
+    background-color: #f00;
+}
+
+#azul {
+    width: 100%;
+    height: 100%;
+    margin: -5%;
+    padding: 5%;
+    background-color: #00f;
+}
+
+#verde {
+    width: 100%;
+    height: 100%;
+    background-color: #0f0;
+}
