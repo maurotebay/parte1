@@ -1,0 +1,25 @@
+body {
+    background-color: #0f0;
+}
+
+#rojo {
+    width: 50%;
+    height: 50%;
+    margin: 10% auto;
+    padding: 5%;
+    background-color: #f00;
+}
+
+#negro {
+    height: 40%;
+    width: 100%;
+
+    background-color: #000;
+}
+
+#azul{
+    height: 40%;
+    width: 100%;
+    margin-top: 10%;
+    background-color: #00f;   
+}
