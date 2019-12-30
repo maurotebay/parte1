@@ -1,0 +1,43 @@
+body {
+    background-color: #999;
+}
+
+#red {
+    width: 50%;
+    height: 50%;
+    margin: 5% auto;
+    padding: 5%;
+    background-color: #f00;
+}
+
+div {
+    width: 20%;
+    height: 100%;
+}
+
+#green {
+    position: relative;
+    left: -2%;
+    background-color: #0f0;
+}
+
+#blue {
+    position: relative;
+    top: -100%;
+    left: 26%;
+    background-color: #00f;
+}
+
+#gray {
+    position: relative;
+    top: -200%;
+    left: 54%;
+    background-color: #666;
+}
+
+#black {
+    position: relative;
+    top: -300%;
+    left: 82%;
+    background-color: #000;
+}
