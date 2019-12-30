@@ -1,0 +1,86 @@
+body {
+    background-color: #00f;
+}
+
+#searchBar {
+    width: 60%;
+    height: 10%;
+    margin: 1% auto;
+    background-color: #999;
+}
+
+#searchText {
+    width: 72.5%;
+    height: 75%;
+    position: relative;
+    top: 12.5%;
+    left: 2.5%;
+    background-color: #f00;
+}
+
+#searchButton {
+    width: 20%;
+    height: 75%;
+    position: relative;
+    top: -62.5%;
+    left: 77.5%;
+    background-color: #000;
+}
+
+#mainBox {
+    width: 60%;
+    height: 65%;
+    margin: 2.5% auto;
+    background-color: #f00;
+}
+
+#sideMenu {
+    width: 20%;
+    height: 80%;
+    position: relative;
+    top: 10%;
+    left: 5%;
+    background-color: #0f0;
+}
+
+.sideOption {
+    width: 70%;
+    height: 5%;
+    margin: 10% auto;
+    position: relative;
+    top: 5%;
+    background-color: #00f;
+}
+
+#mainMenu {
+    width: 65%;
+    height: 80%;
+    position: relative;
+    top: -70%;
+    left: 30%;
+    background-color: #fff;
+}
+
+#blackBox {
+    width: 15%;
+    height: 20%;
+    float: left;
+    margin: 4.5% 5%;
+    background-color: #000;
+}
+
+#footing {
+    width: 60%;
+    height: 10%;
+    margin: 2.5% auto;
+    background-color: #999;
+}
+
+#footingText {
+    width: 70%;
+    height: 50%;
+    position: relative;
+    top: 25%;
+    left: 15%;
+    background-color: #0f0;
+}
